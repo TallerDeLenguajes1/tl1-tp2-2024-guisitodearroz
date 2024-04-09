@@ -11,6 +11,7 @@ int main(int argc, char const *argv[])
         *(pV+i)=1+rand()%100;
         //printf("%f ", vt[i]);
         printf("%f " ,*(pV+i));
+        //gg
         }   
     return 0;
 }
