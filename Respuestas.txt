@@ -1,3 +1,6 @@
 Respuestas:
 ¿Puede ver el archivo creado en la rama Opcion 2?
 No, no se puede ver porque aun no se hizo un merch osea que las ramas siguen separadas.
+
+¿Que diferencia noto despues de utilizar el git commit?
+Se crea una nueva instancia en la rama principal
